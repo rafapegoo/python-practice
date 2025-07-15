@@ -1,5 +1,24 @@
 #!/bin/python3
-# Exercício: Verificar se um número é "Weird" ou "Not Weird" baseado em condições de paridade e intervalo
+"""
+Task:
+Determine if a given integer is 'Weird' or 'Not Weird' based on:
+- Odd numbers are Weird
+- Even numbers in range 2-5: Not Weird
+- Even numbers in range 6-20: Weird
+- Even numbers >20: Not Weird
+
+Example Input/Output:
+Input: 3 → Output: Weird
+Input: 24 → Output: Not Weird
+
+Key Concepts Demonstrated:
+- Conditional logic (if/elif/else)
+- Modulo operations (%)
+- Range comparisons
+- Basic Python I/O operations
+
+Note: Solution for HackerRank's 'Python If-Else' problem (30 Days of Code)
+"""
 
 import math
 import os

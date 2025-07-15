@@ -1,3 +1,29 @@
+"""
+Payment Method Calculator
+
+Task:
+Calculate final purchase price based on different payment methods with:
+- Cash discounts
+- Installment options
+- Interest rates for extended installments
+
+Behavior:
+[1] 10% cash discount
+[2] 5% card discount
+[3] 2x no interest
+[4] 3x+ with 20% interest
+
+Key Concepts:
+- Conditional payment logic
+- Percentage calculations
+- Installment planning
+- Input validation
+
+Example Outputs:
+1 → "Sua compra de R$ 100.00 vai custar R$ 90.00 no final"
+4 → "Sua compra será parcelada em 5x de R$ 24.00 COM JUROS"
+"""
+
 preco = float(input('Preço das compras: R$ '))
 print('''FORMAS DE PAGAMENTO:
       [1] à vista dinheiro/cheque
