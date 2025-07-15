@@ -5,9 +5,9 @@ A collection of Python exercises from various learning platforms, documenting my
 ## 📂 Project Structure
 python-practice/
 │
-├── Curso-em-Video/ # Fundamental Python exercises (Gustavo Guanabara)
+├── Curso-em-Video/ # Fundamental Python exercises
 │
-├── HackerRank/ # Algorithm challenges and problem-solving
+├── HackerRank/ # Algorithm challenges
 │
 ├── .gitattributes
 │
