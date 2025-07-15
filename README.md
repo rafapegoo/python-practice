@@ -4,11 +4,14 @@ A collection of Python exercises from various learning platforms, documenting my
 
 ## 📂 Project Structure
 python-practice/
+│
 ├── Curso-em-Video/ # Fundamental Python exercises (Gustavo Guanabara)
+│
 ├── HackerRank/ # Algorithm challenges and problem-solving
-├──.gitattributes
+│
+├── .gitattributes
+│
 └── README.md
-
 
 ## 📚 Sources
 - **Curso em Vídeo** (Gustavo Guanabara) - Fundamental exercises
